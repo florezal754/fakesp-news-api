@@ -1,0 +1,1 @@
+# fakesp-news-api
